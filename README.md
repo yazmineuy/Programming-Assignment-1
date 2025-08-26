@@ -1,5 +1,5 @@
 # Programming-Assignment-1
-A collection of 3 Python programming challenges focusing on string manipulation, dictionary operations, and list unpacking. Includes solutions for Alphabet Soup, Emoticon Converter, and List Unpacking problems.
+A collection of 3 Python programming challenges focusing on string manipulation, dictionary operations, and list unpacking. This includes solutions for Alphabet Soup, Emoticon Converter, and List Unpacking problems.
 
 ## 📋 The Problems
 
@@ -44,3 +44,5 @@ A collection of 3 Python programming challenges focusing on string manipulation,
 - List slicing for element extraction
 - Used indexing to "unpack".
 - User input parsing with `map()` and `split()`
+
+*There are comments in the code proper for better understanding!*
